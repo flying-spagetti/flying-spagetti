@@ -3,10 +3,6 @@
 **Full-Stack Engineer | Backend Engineer | ML Engineer**  
 Founder-minded engineer with ~3 years of hands-on experience building real products end-to-end — from idea to production.
 
----
-
-## 🧑‍🚀 Hero
-
 <img 
   src="https://github.com/user-attachments/assets/87db3caa-d595-4b68-99d5-73ea9b77d838"
   alt="Gnaneswar Lopinti"
