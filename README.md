@@ -21,7 +21,7 @@ A web platform for browser-side podcast recording with a focus on:
 
 ---
 
-### DigitalTwin for Hydroponic stations and aeroponic stations
+### DigitalTwin for Hydroponic stations and aeroponic stations [https://github.com/flying-spagetti/digital-twin-for-hydrosprout]
 - A RL-based agent system that controls the growth parametres of the plant to optimize for growth and efficiency.
 - Plant Growth Simulation: Physics-based plant growth model with structural-functional plant modeling (SFPM)
 - Reinforcement Learning: PPO agent trained to optimize growing conditions
