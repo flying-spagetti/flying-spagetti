@@ -21,6 +21,16 @@ A web platform for browser-side podcast recording with a focus on:
 
 ---
 
+### DigitalTwin for Hydroponic stations and aeroponic stations
+- A RL-based agent system that controls the growth parametres of the plant to optimize for growth and efficiency.
+- Plant Growth Simulation: Physics-based plant growth model with structural-functional plant modeling (SFPM)
+- Reinforcement Learning: PPO agent trained to optimize growing conditions
+- Multi-Model Integration: Combines plant biology, soil chemistry, environmental physics, and hardware control
+- Curriculum Learning: Progressive difficulty training for robust policy learning
+- Comprehensive Monitoring: Real-time tracking of canopy growth, biomass, moisture, temperature, nutrients, and mold risk
+
+---
+
 ### 🛍 Online Thrift Store Platform (KLEC Store)
 Designed and built a **complete online commerce system** used by ~100 users.
 
