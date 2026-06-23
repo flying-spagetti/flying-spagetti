@@ -11,14 +11,14 @@ Founder-minded engineer with ~3 years of hands-on experience building real produ
 
 ---
 
-## 🚀 What I’m Building
+## What I’m Building
 
-### 🎙 Browser-Based Podcast Recording Platform (Riverside-style)
-A web platform for browser-side podcast recording with a focus on:
-- Low-latency media handling
-- Reliable backend services
-- Scalable architecture for real-time use cases
-
+### Next-Gen AI Recommender System for Skincare & Wellness
+​A high-performance backend architecture tailored for real-time, highly personalized health and beauty recommendations, with a focus on:
+​Context-Aware Recommendations:
+- Processing multimodal user data (like image-based skin analysis and routine tracking) to deliver dynamic, adaptive product and wellness suggestions.
+- ​Low-Latency Inference: Optimizing deep learning models and pipeline execution to ensure instantaneous, real-time feedback within the mobile app.
+- ​Scalable Data Pipelines: Building a robust, high-throughput infrastructure to handle complex, domain-specific feature engineering at scale.
 ---
 
 ### DigitalTwin for Hydroponic stations and aeroponic stations [https://github.com/flying-spagetti/digital-twin-for-hydrosprout]
