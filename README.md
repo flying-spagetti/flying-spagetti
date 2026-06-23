@@ -16,7 +16,7 @@ My interests lie at the intersection of backend engineering, machine learning, r
 
 🏆 Achievements
 
-- 🥇 Winner — Odoo Sns Hackathon Coimbatore Hackathon
+- 🥇 Winner — Odoo Sns Coimbatore Hackathon
 - 🏆 Winner — Code4Good Hackathon 2025
 — Multiple Academic Level Hackathons
 - Built and deployed products used by real users
